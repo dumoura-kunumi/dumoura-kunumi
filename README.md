@@ -67,6 +67,6 @@ When I am not coding, I focus on embodied intelligence and listening skills.
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dumoura&show_icons=true&theme=transparent&hide_border=true&title_color=2ea44f&text_color=555" height="130" alt="stats graph" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dumoura-kunumi&show_icons=true&theme=transparent&hide_border=true&title_color=2ea44f&text_color=555" height="130" alt="stats graph" />
 </div>
